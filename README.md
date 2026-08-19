@@ -55,27 +55,27 @@ I love designing event-driven architectures, shipping resilient distributed serv
 
 ## Current Projects
 
-- 📡 [gl-modem-community](https://github.com/rudironsoni/gl-modem-community) — Community modem definitions and drivers for GL.iNet's cellular stack (FM350-GL on GL-MT3000)
-- 🔌 [cursor-plugins-for-all-harnesses](https://github.com/rudironsoni/cursor-plugins-for-all-harnesses) — Cursor's plugin marketplace packaged for Claude Code, Codex, Grok, and OpenCode
-- 🐧 [Orlix](https://github.com/rudironsoni/Orlix) — iOS-hosted upstream Linux port running userspace inside an iOS app
-- 📝 [obsidian-advanced-code-editor](https://github.com/rudironsoni/obsidian-advanced-code-editor) — Obsidian plugin with Shiki and Expressive Code for rich syntax highlighting in 100+ languages
-- 📶 [mt3000-beryl-ax](https://github.com/rudironsoni/mt3000-beryl-ax) — GL-MT3000 (Beryl AX) workspace for GL.iNet cellular modem development
-- 🧠 [ontology-brain](https://github.com/rudironsoni/ontology-brain) — Palantir Foundry Ontology-style knowledge brain for agent-maintained Markdown graphs
-- 🤖 [dotnet-agent-harness](https://github.com/rudironsoni/dotnet-agent-harness) — .NET development companion for AI coding tools with skills, subagents, and MCP integrations
-- 👻 [Ghost](https://github.com/rudironsoni/Ghost) — .NET scraping platform with a plugin architecture for extensible web scraping
-- 🔍 [synthetic-search-mcp](https://github.com/rudironsoni/synthetic-search-mcp) — Zero-data-retention web search MCP server for AI coding agents
-- 🔧 [EventualRepairShop](https://github.com/rudironsoni/EventualRepairShop) — Event-driven architecture learning project inspired by EventualShop
-- 💡 [esphome-diyhue-light-component](https://github.com/rudironsoni/esphome-diyhue-light-component) — ESPHome components to expose RGB/CCT lights to diyHue over UDP
-- 💻 [Dell-XPS-9350-MacOS](https://github.com/rudironsoni/Dell-XPS-9350-MacOS) — OpenCore configuration for running macOS on Dell XPS 15 9350
-- 📊 [influx](https://github.com/rudironsoni/influx) — Obsidian plugin that turns backlinks into rich contextual excerpts
+- 📡 [gl-modem-community](https://github.com/rudironsoni/gl-modem-community) - Community modem definitions and compatibility drivers for GL.iNet's stock cellular stack
+- 🔌 [cursor-plugins-for-all-harnesses](https://github.com/rudironsoni/cursor-plugins-for-all-harnesses) - Fork of Cursor's official plugin marketplace for Claude Code, Grok, Codex, and OpenCode
+- 🐧 [Orlix](https://github.com/rudironsoni/Orlix) - iOS-hosted upstream Linux port that runs Linux userspace inside an iOS app
+- 📝 [obsidian-advanced-code-editor](https://github.com/rudironsoni/obsidian-advanced-code-editor) - Obsidian plugin integrating Shiki and Expressive Code for syntax highlighting in 100+ languages
+- 📶 [mt3000-beryl-ax](https://github.com/rudironsoni/mt3000-beryl-ax) - GL-MT3000 (Beryl AX) workspace bundling gl-modem-community for router development
+- 🧠 [ontology-brain](https://github.com/rudironsoni/ontology-brain) - Scoped Markdown knowledge brain using a Palantir Foundry Ontology-style model
+- 🤖 [dotnet-agent-harness](https://github.com/rudironsoni/dotnet-agent-harness) - Definitive .NET development companion for AI coding tools with 193 skills, 18 subagents, and 28 commands
+- 👻 [Ghost](https://github.com/rudironsoni/Ghost) - .NET scraping platform with a plugin architecture for extensible web scraping
+- 🔍 [synthetic-search-mcp](https://github.com/rudironsoni/synthetic-search-mcp) - Zero-data-retention web search MCP server powered by Synthetic.new
+- 🔧 [EventualRepairShop](https://github.com/rudironsoni/EventualRepairShop) - Event-driven architecture learning project inspired by EventualShop
+- 💡 [esphome-diyhue-light-component](https://github.com/rudironsoni/esphome-diyhue-light-component) - ESPHome custom components to expose RGB/CCT lights to diyHue over UDP
+- 💻 [Dell-XPS-9350-MacOS](https://github.com/rudironsoni/Dell-XPS-9350-MacOS) - OpenCore configuration and UEFI BIOS tuning for macOS on Dell XPS 15 9350
+- 📊 [influx](https://github.com/rudironsoni/influx) - Obsidian plugin that transforms backlinks into rich contextual excerpts
 
 ## Open Source Contributions
 
-- 🐋 [orca](https://github.com/stablyai/orca) — AI orchestrator for running Codex, Claude Code, and other agents in parallel git worktrees
-- 🛡️ [cc-safety-net](https://github.com/kenryu42/cc-safety-net) — PreToolUse hook that semantically blocks destructive commands and secret access for AI coding CLIs
-- 🧿 [hermes-agent](https://github.com/NousResearch/hermes-agent) — Self-improving AI agent with a built-in learning loop, skills, memory, and multi-platform messaging
-- 🧠 [headroom](https://github.com/headroomlabs-ai/headroom) — Local-first context compression layer for AI agents that cuts token usage with reversible caching
-- 🔄 [rulesync](https://github.com/dyoshikawa/rulesync) — CLI that generates unified AI tool configs (rules, MCP, commands, skills) from a single source of truth
+- 🐋 [stablyai/orca](https://github.com/stablyai/orca) - AI orchestrator for running Codex, Claude Code, and other agents in parallel git worktrees
+- 🛡️ [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - PreToolUse hook that semantically blocks destructive commands and secret access for AI coding CLIs
+- 🧿 [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - Self-improving AI agent with a built-in learning loop, skills, memory, and multi-platform messaging
+- 🧠 [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Local-first context compression layer for AI agents that cuts token usage with reversible caching
+- 🔄 [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - CLI that generates unified AI tool configs (rules, MCP, commands, skills) from a single source of truth
 
 ## GitHub Stats
 
