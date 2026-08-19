@@ -57,6 +57,7 @@ I love designing event-driven architectures, shipping resilient distributed serv
 
 - 📡 [gl-modem-community](https://github.com/rudironsoni/gl-modem-community) - Community modem definitions and compatibility drivers for GL.iNet's stock cellular stack
 - 🔌 [cursor-plugins-for-all-harnesses](https://github.com/rudironsoni/cursor-plugins-for-all-harnesses) - Fork of Cursor's official plugin marketplace for Claude Code, Grok, Codex, and OpenCode
+- 🧩 [skills](https://github.com/rudironsoni/skills) - Reusable agent skills grouped by capability for Claude Code, Codex, and OpenCode
 - 🐧 [Orlix](https://github.com/rudironsoni/Orlix) - iOS-hosted upstream Linux port that runs Linux userspace inside an iOS app
 - 📝 [obsidian-advanced-code-editor](https://github.com/rudironsoni/obsidian-advanced-code-editor) - Obsidian plugin integrating Shiki and Expressive Code for syntax highlighting in 100+ languages
 - 📶 [mt3000-beryl-ax](https://github.com/rudironsoni/mt3000-beryl-ax) - GL-MT3000 (Beryl AX) workspace bundling gl-modem-community for router development
