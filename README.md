@@ -21,16 +21,16 @@
   </h4>
 
   <!-- Light mode icons -->
-  <a href="https://linkedin.com/in/rudironsoni#gh-light-mode-only"><img src="img/linkedin.png" alt="LinkedIn"></a>
-  <a href="https://rudironsoni.com#gh-light-mode-only"><img src="img/web.png" alt="Website"></a>
-  <a href="mailto:rudimar@outlook.com#gh-light-mode-only"><img src="img/mail.png" alt="Email"></a>
-  <a href="https://github.com/rudironsoni#gh-light-mode-only"><img src="img/github.png" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/rudironsoni#gh-light-mode-only"><img src="img/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://rudironsoni.com#gh-light-mode-only"><img src="img/web.svg" alt="Website"></a>
+  <a href="mailto:rudimar@outlook.com#gh-light-mode-only"><img src="img/mail.svg" alt="Email"></a>
+  <a href="https://github.com/rudironsoni#gh-light-mode-only"><img src="img/github.svg" alt="GitHub"></a>
 
   <!-- Dark mode icons -->
-  <a href="https://linkedin.com/in/rudironsoni#gh-dark-mode-only"><img src="img/linkedin-light.png" alt="LinkedIn"></a>
-  <a href="https://rudironsoni.com#gh-dark-mode-only"><img src="img/web-light.png" alt="Website"></a>
-  <a href="mailto:rudimar@outlook.com#gh-dark-mode-only"><img src="img/mail-light.png" alt="Email"></a>
-  <a href="https://github.com/rudironsoni#gh-dark-mode-only"><img src="img/github-light.png" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/rudironsoni#gh-dark-mode-only"><img src="img/linkedin-light.svg" alt="LinkedIn"></a>
+  <a href="https://rudironsoni.com#gh-dark-mode-only"><img src="img/web-light.svg" alt="Website"></a>
+  <a href="mailto:rudimar@outlook.com#gh-dark-mode-only"><img src="img/mail-light.svg" alt="Email"></a>
+  <a href="https://github.com/rudironsoni#gh-dark-mode-only"><img src="img/github-light.svg" alt="GitHub"></a>
 
 </div>
 
